@@ -1,0 +1,5 @@
+a = int(input("Enter the first number : "))
+b = int(input("Enter the second number : "))
+print(a,'divided by',b,'is ',a/b)
+print('the quotient of a divided by b is',a//b)
+print('the remainder of a divided by b is ',a%b)
